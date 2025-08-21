@@ -1,0 +1,2 @@
+var tracks2 =
+[{"id":"32044080269715","name":"Biblioteca ambrosiana., Catalogus codicum graecorum Bibliothecae... [1906]","lang":"lat","date":"1906","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":3,"notes":[{"start":2,"stop":49,"pre":"","id":773094404884,"url":"32044080269715&seq=139","sloc":"p. 139"},{"start":361,"stop":408,"pre":"","id":773094404885,"url":"32044080269715&seq=139","sloc":"p. 139"},{"start":408,"stop":457,"pre":"","id":773094404886,"url":"32044080269715&seq=139","sloc":"p. 139"}]}];

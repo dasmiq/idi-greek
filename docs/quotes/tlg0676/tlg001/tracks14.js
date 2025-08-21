@@ -1,0 +1,2 @@
+var tracks14 =
+[{"id":"HWXRS2","name":"Haupt, Moriz, Mavricii Havptii opvscvla ... [1875]","lang":"lat","date":"1875","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":3,"notes":[{"start":300,"stop":606,"pre":"","id":549756105577,"url":"hwxrs2&seq=352","sloc":"p. 352"},{"start":301,"stop":606,"pre":"","id":266288264067,"url":"hwxrs2&seq=351","sloc":"p. 351"},{"start":443,"stop":497,"pre":"","id":266288264068,"url":"hwxrs2&seq=351","sloc":"p. 351"}]}];
