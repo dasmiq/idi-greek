@@ -1,0 +1,2 @@
+var tracks4 =
+[{"id":"32044014249205","name":"Ohlert, Konrad., Rätsel und Rätselspiele der alten Griech... [1912]","lang":"deu","date":"1912","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":2,"notes":[{"start":0,"stop":21,"pre":"","id":1297080262409,"url":"32044014249205&seq=276","sloc":"p. 276"},{"start":0,"stop":658,"pre":"","id":1709397355922,"url":"32044014249205&seq=234","sloc":"p. 234"}]}];
