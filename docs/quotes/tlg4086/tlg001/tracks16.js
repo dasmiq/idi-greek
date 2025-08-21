@@ -1,0 +1,2 @@
+var tracks16 =
+[{"id":"32044010487221","name":"Berthelot, M., Collection des anciens alchimistes grecs [1888]","lang":"ell","date":"1888","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":2,"notes":[{"start":0,"stop":112,"pre":"","id":1623497922888,"url":"32044010487221&seq=16","sloc":"p. 16"},{"start":24,"stop":110,"pre":"","id":438086950358,"url":"32044010487221&seq=22","sloc":"p. 22"}]}];

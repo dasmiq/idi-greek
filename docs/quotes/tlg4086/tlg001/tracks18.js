@@ -1,0 +1,2 @@
+var tracks18 =
+[{"id":"32044089520241","name":"Kopp, Hermann, Beiträge zur Geschichte der Chemie. [1869]","lang":"deu","date":"1869","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":2,"notes":[{"start":0,"stop":24,"pre":"","id":257698088513,"url":"32044089520241&seq=334","sloc":"p. 334"},{"start":0,"stop":34,"pre":"","id":798863967706,"url":"32044089520241&seq=315","sloc":"p. 315"}]}];
