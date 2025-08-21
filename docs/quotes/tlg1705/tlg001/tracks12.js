@@ -1,0 +1,2 @@
+var tracks12 =
+[{"id":"HN5554","name":"Ménage, Gilles, In Diogenem Laertium Aegidii Menagii obs... [1692]","lang":"lat","date":"1692","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":2,"notes":[{"start":496,"stop":529,"pre":"","id":644245447023,"url":"hn5554&seq=47","sloc":"p. 47"},{"start":1396,"stop":1426,"pre":"","id":644245447024,"url":"hn5554&seq=47","sloc":"p. 47"}]}];
