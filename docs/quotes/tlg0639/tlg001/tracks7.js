@@ -1,0 +1,2 @@
+var tracks7 =
+[{"id":"HXJHBR","name":"Fragmenta historicorum graecorum [1841]","lang":"lat","date":"1841","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":4,"notes":[{"start":12,"stop":71,"pre":"","id":369367307783,"url":"hxjhbr&seq=428","sloc":"p. 428"},{"start":71,"stop":137,"pre":"","id":369367307784,"url":"hxjhbr&seq=428","sloc":"p. 428"},{"start":137,"stop":199,"pre":"","id":369367307785,"url":"hxjhbr&seq=428","sloc":"p. 428"},{"start":196,"stop":266,"pre":"","id":369367307786,"url":"hxjhbr&seq=428","sloc":"p. 428"}]}];

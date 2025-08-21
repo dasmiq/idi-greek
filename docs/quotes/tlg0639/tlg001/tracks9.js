@@ -1,0 +1,2 @@
+var tracks9 =
+[{"id":"32044098648207","name":"Hestia. [1876]","lang":"ell","date":"1876","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":174,"stop":233,"pre":"","id":824634076272,"url":"32044098648207&seq=376","sloc":"p. 376"}]},{"id":"32044102772449","name":"Jacobs, Friedrich, The Greek reader, [1831]","lang":"ell","date":"1831","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":46,"stop":98,"pre":"","id":188978681093,"url":"32044102772449&seq=37","sloc":"p. 37"}]}];
