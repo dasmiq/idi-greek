@@ -1,0 +1,2 @@
+var tracks10 =
+[{"id":"HNX6BY","name":"Heidelbergische Jahrbücher der Litteratu... [1808]","lang":"deu","date":"1808","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":3,"notes":[{"start":60,"stop":147,"pre":"","id":1760937052275,"url":"hnx6by&seq=1130","sloc":"p. 1130"},{"start":529,"stop":573,"pre":"","id":1760937052276,"url":"hnx6by&seq=1130","sloc":"p. 1130"},{"start":639,"stop":712,"pre":"","id":1760937052277,"url":"hnx6by&seq=1130","sloc":"p. 1130"}]}];
