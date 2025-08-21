@@ -1,0 +1,2 @@
+var tracks18 =
+[{"id":"32044098627813","name":"The Classical review. [1887]","lang":"eng","date":"1887","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":104,"stop":187,"pre":"","id":326417544253,"url":"32044098627813&seq=328","sloc":"p. 328"}]},{"id":"HW2J2O","name":"Euripides., Euripides Tragoediae, [1830]","lang":"lat","date":"1830","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":247,"stop":270,"pre":"","id":1571958293912,"url":"hw2j2o&seq=78","sloc":"p. 78"}]}];

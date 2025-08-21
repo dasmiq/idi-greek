@@ -1,0 +1,2 @@
+var tracks10 =
+[{"id":"32044012927794","name":"Monro, D. B., The modes of ancient Greek music, [1894]","lang":"eng","date":"1894","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":3,"notes":[{"start":113,"stop":189,"pre":"","id":687194796669,"url":"32044012927794&seq=157","sloc":"p. 157"},{"start":259,"stop":411,"pre":"","id":2010044958427,"url":"32044012927794&seq=156","sloc":"p. 156"},{"start":316,"stop":328,"pre":"","id":1340030060461,"url":"32044012927794&seq=118","sloc":"p. 118"}]}];
