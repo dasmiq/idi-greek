@@ -1,0 +1,2 @@
+var tracks1 =
+[{"id":"32044014461479","name":"Pappus, Pappi Alexandrini Collectionis [1876]","lang":"ell","date":"1876","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":2,"notes":[{"start":2557,"stop":2618,"pre":"","id":781684395060,"url":"32044014461479&seq=62","sloc":"p. 62"},{"start":2764,"stop":2866,"pre":"","id":704374748065,"url":"32044014461479&seq=106","sloc":"p. 106"}]}];

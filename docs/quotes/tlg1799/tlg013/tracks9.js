@@ -1,0 +1,2 @@
+var tracks9 =
+[{"id":"AH5FSA","name":"Aristotle., Aristotelis opera, [1831]","lang":"ell","date":"1831","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":650,"stop":670,"pre":"","id":1374389900390,"url":"ah5fsa&seq=484","sloc":"p. 484"}]},{"id":"HNJWQ1","name":"Ephēmeris tōn mathētōn. Philologikē kai ... [1852]","lang":"ell","date":"1852","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":2339,"stop":2403,"pre":"","id":755914374766,"url":"hnjwq1&seq=406","sloc":"p. 406"}]}];
