@@ -1,0 +1,2 @@
+var structure = [
+{"id": "book", "name": "book", "style": "ac", "notes": [{"id": "1", "name": "1", "start": 0, "stop": 1778}, {"id": "2", "name": "2", "start": 1779, "stop": 5760}, {"id": "3", "name": "3", "start": 5761, "stop": 7190}, {"id": "4", "name": "4", "start": 7191, "stop": 9885}, {"id": "5", "name": "5", "start": 9886, "stop": 14170}, {"id": "6", "name": "6", "start": 14171, "stop": 16389}, {"id": "7", "name": "7", "start": 16390, "stop": 18617}, {"id": "8", "name": "8", "start": 18618, "stop": 20195}, {"id": "9", "name": "9", "start": 20196, "stop": 23787}]}];
