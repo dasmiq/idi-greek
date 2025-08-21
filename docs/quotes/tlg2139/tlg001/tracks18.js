@@ -1,0 +1,2 @@
+var tracks18 =
+[{"id":"HWRJ66","name":"Listy filologické [1946]","lang":"ces","date":"1946","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":3,"notes":[{"start":0,"stop":227,"pre":"","id":721554672450,"url":"hwrj66&seq=584","sloc":"p. 584"},{"start":92,"stop":191,"pre":"","id":300647877948,"url":"hwrj66&seq=730","sloc":"p. 730"},{"start":92,"stop":198,"pre":"","id":962072841476,"url":"hwrj66&seq=586","sloc":"p. 586"}]}];

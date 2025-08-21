@@ -1,0 +1,2 @@
+var tracks4 =
+[{"id":"32044100893338","name":"Volkmann, Richard Emil, 1832-1892., Rhetorik und Metrik der Griechen und Röm... [1901]","lang":"deu","date":"1901","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":3,"notes":[{"start":93,"stop":136,"pre":"","id":85899512821,"url":"32044100893338&seq=161","sloc":"p. 161"},{"start":93,"stop":202,"pre":"","id":1211180944211,"url":"32044100893338&seq=353","sloc":"p. 353"},{"start":283,"stop":376,"pre":"","id":85899512822,"url":"32044100893338&seq=161","sloc":"p. 161"}]}];
