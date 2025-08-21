@@ -1,0 +1,2 @@
+var tracks13 =
+[{"id":"HW2IOS","name":"Cramer, J. A., Anecdota Graeca e codd. manuscriptis Bib... [1835]","lang":"ell","date":"1835","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":2,"notes":[{"start":245,"stop":281,"pre":"","id":1382979664012,"url":"hw2ios&seq=194","sloc":"p. 194"},{"start":477,"stop":509,"pre":"","id":386547250525,"url":"hw2ios&seq=383","sloc":"p. 383"}]}];

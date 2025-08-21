@@ -1,0 +1,2 @@
+var tracks7 =
+[{"id":"HXJHBR","name":"Fragmenta historicorum graecorum [1841]","lang":"lat","date":"1841","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":29,"stop":45,"pre":"","id":1898375646755,"url":"hxjhbr&seq=343","sloc":"p. 343"}]},{"id":"HXJTT8","name":"Zacher, Konrad, Aristophanesstudien. [1898]","lang":"deu","date":"1898","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":701,"stop":786,"pre":"","id":1520418525123,"url":"hxjtt8&seq=64","sloc":"p. 64"}]}];
