@@ -1,0 +1,2 @@
+var tracks19 =
+[{"id":"HXJA84","name":"Tryphiodorus., Tryphiodōrou Halōsis Iliou. [1819]","lang":"lat","date":"1819","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":90,"stop":127,"pre":"","id":446676951416,"url":"hxja84&seq=252","sloc":"p. 252"}]},{"id":"HXJVS6","name":"Callimachus., Callimachea, [1870]","lang":"lat","date":"1870","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":0,"stop":138,"pre":"","id":1932735398942,"url":"hxjvs6&seq=53","sloc":"p. 53"}]}];

@@ -1,0 +1,2 @@
+var tracks17 =
+[{"id":"HN8WDF","name":"Preller, Ludwig, Griechische mythologie, [1872]","lang":"deu","date":"1872","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":69,"stop":99,"pre":"","id":1735166987555,"url":"hn8wdf&seq=156","sloc":"p. 156"}]},{"id":"HXJ984","name":"Homer., Carmina. [1827]","lang":"ell","date":"1827","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":0,"stop":250,"pre":"","id":1941325651891,"url":"hxj984&seq=463","sloc":"p. 463"}]}];

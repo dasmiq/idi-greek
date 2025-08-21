@@ -1,0 +1,2 @@
+var tracks16 =
+[{"id":"32044024296675","name":"Pischinger, Arnold, Der Vogelgesang bei den griechischen Dic... [1901]","lang":"deu","date":"1901","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":2,"notes":[{"start":0,"stop":117,"pre":"","id":223338406971,"url":"32044024296675&seq=132","sloc":"p. 132"},{"start":0,"stop":117,"pre":"","id":1151051342832,"url":"32044024296675&seq=120","sloc":"p. 120"}]}];

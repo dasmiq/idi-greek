@@ -1,0 +1,2 @@
+var tracks0 =
+[{"id":"32044085123339","name":"Homer., Hymni homerici accedentibus Epigrammatis... [1877]","lang":"ell","date":"1877","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":3,"stop":164,"pre":"","id":104885,"url":"32044085123339&seq=96","sloc":"p. 96"}]},{"id":"HWQTY7","name":"Mnemosyne. [1852]","lang":"lat","date":"1852","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":1,"notes":[{"start":3,"stop":104,"pre":"","id":17180208976,"url":"hwqty7&seq=342","sloc":"p. 342"}]}];

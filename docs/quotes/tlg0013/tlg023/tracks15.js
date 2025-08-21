@@ -1,0 +1,2 @@
+var tracks15 =
+[{"id":"32044014773188","name":"Homer., Carmina [according to the text of Dindor... [1845]","lang":"ell","date":"1845","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":2,"notes":[{"start":0,"stop":205,"pre":"","id":816044138005,"url":"32044014773188&seq=587","sloc":"p. 587"},{"start":105,"stop":158,"pre":"","id":171798807863,"url":"32044014773188&seq=634","sloc":"p. 634"}]}];

@@ -1,0 +1,2 @@
+var tracks16 =
+[{"id":"32044085133189","name":"Seeck, Otto., Die Quellen der Odyssee. [1887]","lang":"deu","date":"1887","base":"https://babel.hathitrust.org/cgi/pt?id=hvd.","visible":false,"notecount":2,"notes":[{"start":0,"stop":154,"pre":"","id":274878245141,"url":"32044085133189&seq=403","sloc":"p. 403"},{"start":154,"stop":260,"pre":"","id":618475393995,"url":"32044085133189&seq=404","sloc":"p. 404"}]}];
